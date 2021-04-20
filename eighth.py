@@ -1,0 +1,9 @@
+a=32
+b=10
+c=a/b
+d=a//b
+print(c,d)
+x=2
+y=5
+z=x**y
+print(z)

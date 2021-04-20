@@ -1,0 +1,9 @@
+n=2378
+a=(n/100)%10
+b=(n/10)%10
+c=(n%100)/10
+d=(n%1000)/100
+print(a)
+print(b)
+print(c)
+print(d)
